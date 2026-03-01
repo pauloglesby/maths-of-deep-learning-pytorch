@@ -1,0 +1,21 @@
+[project]
+name = "maths-of-deep-learning-pytorch"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = "==3.14.*"
+dependencies = [
+    "future==1.0.0",
+    "ipympl==0.10.0",
+    "jupyter==1.1.1",
+    "matplotlib==3.10.8",
+    "numpy==1.26.4",
+    "opencv-python==4.8.0.74",
+    "pytorch-lightning==2.6.1",
+    "scikit-learn==1.7.2",
+    "sympy==1.13.3",
+    "torch==2.10.0",
+    "torchmetrics==1.8.2",
+    "torchsummary==1.5.1",
+    "torchvision==0.25.0",
+]
