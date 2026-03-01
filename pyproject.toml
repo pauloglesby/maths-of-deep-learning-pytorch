@@ -8,6 +8,7 @@ dependencies = [
     "future==1.0.0",
     "ipympl==0.10.0",
     "jupyter==1.1.1",
+    "marimo>=0.20.2",
     "matplotlib==3.10.8",
     "numpy==1.26.4",
     "opencv-python==4.8.0.74",
